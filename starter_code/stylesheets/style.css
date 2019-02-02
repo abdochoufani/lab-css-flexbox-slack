@@ -369,6 +369,10 @@ input {
         border-left:1px solid grey;
     }
 
+    .border-none {
+        border-bottom: none;
+    }
+
 
     .social-media {
         margin-left: 10%;
