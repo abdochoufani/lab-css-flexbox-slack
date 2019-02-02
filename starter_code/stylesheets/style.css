@@ -43,7 +43,7 @@ button {
 }
 
 input {
-    width: 100%;
+    width: 90%;
     box-sizing: border-box;
     border-radius: 10px;
     margin:2% 2%;
@@ -83,7 +83,7 @@ input {
 }
 
 .logo {
-    width:200px;;
+    width:100px;;
 
 }
 
@@ -137,7 +137,8 @@ input {
 
 .header-img img {
     margin:0 auto;
-    width: 100%;
+    width: 80%;
+    height: 90%;
 }
 
 .discover {
@@ -233,8 +234,8 @@ input {
 @media screen  and (min-width: 767px) {
 
     button {
-        width: 200px;
-        height: 70px;
+        width: 150px;
+        height: 55px;
         /*margin-top: 10px;*/
         
     }
@@ -295,7 +296,7 @@ input {
     }
 
     .footer-container img {
-        max-width: 10%;
+        max-width: 20%;
         
     }
 
